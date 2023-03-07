@@ -39,7 +39,7 @@ export const DockApp = (props: WindowProps) => {
             <IoEllipse
               className="navbar-app-ellipse"
               style={{
-                color: props.zIndex === 1 ? "#636e6e" : "#6bb2ec",
+                color: props.zIndex === 1 ? "white" : "#6bb2ec",
               }}
             />
           )}
